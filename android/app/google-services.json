@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711690484684",
+    "project_id": "first-157f1",
+    "storage_bucket": "first-157f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711690484684:android:92ffd619585ae60bc9fb69",
+        "android_client_info": {
+          "package_name": "com.tuto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVD5SSku1SXtkC5n7FyCuCmNJscgUXNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
